@@ -14,13 +14,17 @@
     - `mkdir <dir_name>`
 - **vim <file_name> (or pico/emacs/nano)**
     - esc until normal mode
-- **rmdir**
-    - removes directories
+- **rm**
+    - rmdir removes directories
     - rm for files
     - Flags 
         - `-r -f` removes forcefully
 - **cp**
-    - copies file `cp <source> <destination>`
+    - copies file `cp <source> <destination>`q
+    - Flags 
+        - `- R` to copy repos
+- **history**
+    - 
 
 ### Vim Commands:
 - `:wq` to write & quit or `:w` + `:q` seperately works
@@ -100,8 +104,13 @@
     - Using R, python
 
 
-
-
+### Structure for all HWs:
+    .
+    └── hw_#
+       ├── data
+       ├── docs
+       ├── figures
+       └── R
 
 
 ## Assignments:
