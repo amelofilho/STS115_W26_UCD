@@ -24,7 +24,7 @@
     - Flags 
         - `- R` to copy repos
 - **history**
-    - 
+    - displays the last 500 commands entered in terminal (500 by default on mac)
 
 ### Vim Commands:
 - `:wq` to write & quit or `:w` + `:q` seperately works
